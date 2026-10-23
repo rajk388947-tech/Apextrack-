@@ -1,0 +1,6 @@
+{
+  "name": "ApexTrack - Strength & Workout Progress Platform",
+  "description": "Workout tracking and progressive overload platform built for lifters who want to add weight to the bar every month without spreadsheet chaos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
